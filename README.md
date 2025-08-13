@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gvidhi777
-- 👀 I’m interested in android developing
-- 🌱 I’m currently learning Android Studio
+- 👀 I’m interested in website developer
+- 🌱 I’m currently learning node.js
 - 📫 How to reach me vgiri3506@gmail.com 
 
 <!---
